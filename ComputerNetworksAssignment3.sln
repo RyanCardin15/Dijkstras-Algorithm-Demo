@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerNetworksAssignment3", "ComputerNetworksAssignment3\ComputerNetworksAssignment3.csproj", "{4DBF65DC-0EA2-4463-B750-6DB1F5396FCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DBF65DC-0EA2-4463-B750-6DB1F5396FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBF65DC-0EA2-4463-B750-6DB1F5396FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DBF65DC-0EA2-4463-B750-6DB1F5396FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DBF65DC-0EA2-4463-B750-6DB1F5396FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEA2D8F0-605A-4B5D-812A-B1E5CC380D26}
+	EndGlobalSection
+EndGlobal
